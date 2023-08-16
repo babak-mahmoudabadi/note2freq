@@ -75,4 +75,3 @@
 700 for p=0 to 5
 710 gosub 490
 720 next
-
