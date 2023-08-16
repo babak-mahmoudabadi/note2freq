@@ -13,3 +13,6 @@ commandstring is a stringexpression that contains music commands that are:<br>
 for example: O3L12CDEDCDL05ECC. is a commandstring. <br>
 After create input file, you should run following command for generate BASIC source code: 
 python note2freq.py NoteFileName OutputFileName
+
+refrences:
+http://techlib.com/reference/musical_note_frequencies.htm
