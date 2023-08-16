@@ -2,7 +2,7 @@
 
 This program is C64 BASIC source code generator and imitates a simple form of QBaisc PLAY command. You should create a file as input that contains some commandstrings.  <br>
 
-commandstring is a stringexpression that contains music commands that contains:<br>
+commandstring is a stringexpression that contains music commands that are:<br>
 
 - On	Sets current octave (n = 0-9)
 - A-G	Plays A, B, ..., G in current octave (+ = sharp, - = flat note)
