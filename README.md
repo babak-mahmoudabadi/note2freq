@@ -11,7 +11,7 @@ commandstring is a stringexpression that contains music commands that are:<br>
 - . => End of a music segment
 
 for example: O3L12CDEDCDL05ECC. is a commandstring. <br>
-After create input file, you should run following command for generating BASIC source code: 
+After creating input file, you should run following command for generating BASIC source code: 
 python note2freq.py NoteFileName OutputFileName
 
 references:
