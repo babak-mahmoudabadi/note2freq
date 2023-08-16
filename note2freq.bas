@@ -22,7 +22,6 @@
 200 dim fh%(ml):dim fl%(ml):dim dr%(ml):dim m%(nc):m%(0)=0
 210 l=0:o=0:j=0:p=0
 220 read t$:rem print t$
-
 230 if t$="end" then return
 240 i=1
 250 if i>len(t$) then 220
@@ -70,9 +69,9 @@
 
 650 print "init"
 660 gosub 20:rem init sound
-670 print "converting"
+670 print "converting..."
 680 gosub 190:rem read music data
-690 print "playing"
+690 print "playing..."
 700 for p=0 to 5
 710 gosub 490
 720 next
