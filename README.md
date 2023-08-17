@@ -6,7 +6,7 @@ commandstring is a stringexpression that contains music commands that are:<br>
 
 - On => Sets current octave (n = 0-9)<br>
 - A-G => Plays A, B, ..., G in current octave (+ = sharp, - = flat note)<br>
-- Lnn => Sets length of a note (L01 is whole note, L04 is quarter note, etc.) n = 01-99<br>
+- Lnn => Sets length of a note (L01 is whole note, L04 is quarter note, etc.) nn = 01-99<br>
 - P => Pause  <br>
 - . => End of a music segment<br>
 
