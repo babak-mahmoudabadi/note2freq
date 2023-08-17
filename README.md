@@ -10,7 +10,7 @@ commandstring is a stringexpression that contains music commands that are:<br>
 - P => Pause  <br>
 - . => End of a music segment<br>
 
-for example: O3L12CDEDCDL05ECC. is a commandstring. <br>
+for example: O3 L12 C D E D C D L05 E C C . is a commandstring. <br>
 After creating input file, you should run following command for generating BASIC source code:<br> 
 python note2freq.py NoteFileName OutputFileName<br>
 
